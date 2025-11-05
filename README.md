@@ -43,8 +43,8 @@
 ---
 
 ### 🧩 Featured Project  
-**🚗 [My PortFolio](https://kevinpaulbabu.vercel.app/)**  
-> A simple parking system built with **React** and **TailwindCSS**.  
+**[My PortFolio](https://kevinpaulbabu.vercel.app/)**  
+> A simple web application with **React** and **TailwindCSS**.  
 > [🔗 View on GitHub](https://github.com/Kevinpaulbabu1820/Portfolio-Website)
 
 ---
