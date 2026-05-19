@@ -71,7 +71,7 @@ Successfully completed simulated Security Operations Center (SOC) exercises focu
 * 📦 **Supply Chain Security:** Monitored and audited npm packages to eliminate vulnerable dependencies and ensure a clean, secure build environment.
 * ⚡ **Performance & Integrity:** Achieved a **100/100 Lighthouse performance score** utilizing code splitting and lazy loading, demonstrating that security and performance can coexist seamlessly.
 
-👉 **GitHub Repo:** https://github.com/Kevinpaulbabu1820/Portfolio-Website
+
 
 ---
 
