@@ -15,7 +15,7 @@
 
 📫 **Email:** [kevinpaulbabu1820@gmail.com](mailto:kevinpaulbabu1820@gmail.com)
 💼 **LinkedIn:** https://www.linkedin.com/in/kevin-paul-babu/
-🌐 **Portfolio:** https://kevinpaulbabu.vercel.app
+
 
 ---
 
